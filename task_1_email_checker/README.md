@@ -11,4 +11,4 @@
 Убедитесь, что зависимости установлены (`pip install dnspython`).
 
 ```bash
-python main.py <путь_к_файлу>
+python main.py emails.txt
